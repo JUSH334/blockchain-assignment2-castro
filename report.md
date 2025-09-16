@@ -128,9 +128,11 @@ All technical requirements were fulfilled, including:
 - Event logging and decimal conversion demonstrations
 
 ## Screenshots
-<img width="936" height="450" alt="Screenshot from 2025-09-16 16-10-12" src="https://github.com/user-attachments/assets/ce81d0f9-5245-489b-a2bb-d3d9e0aa936f" />
-<img width="937" height="694" alt="Screenshot from 2025-09-16 16-09-41" src="https<img width="920" height="157" alt="Screenshot from 2025-09-16 16-13-20" src="https://github.com/user-attachments/assets/b868c63e-2e39-48ce-8566-abd3ed0d739b" />
-<img width="918" height="787" alt="Screenshot from 2025-09-16 16-12-33" src="https://github.com/user-attachments/assets/b58c7b8a-ba99-4e14-89da-24516d918e5c" />
-<img width="918" height="787" alt="Screenshot from 2025-09-16 16-12-20" src="https://github.com/user-attachments/assets/fd71b470-ac7b-4b79-acfc-32415d5c708c" />
-<img width="915" height="768" alt="Screenshot from 2025-09-16 16-10-47" src="https://github.com/user-attachments/assets/7ce22d22-7354-49a5-a268-65f0c20ea814" />
-<img width="915" height="768" alt="Screenshot from 2025-09-16 16-10-32" src="https://github.com/user-attachments/assets/bbabc228-10d0-429b-ac5e-3d69b097d791" />
+<img width="937" height="694" alt="Screenshot from 2025-09-16 16-09-41" src="https://github.com/user-attachments/assets/ce647c97-13db-4e57-9a55-d7230c8c35c4" />
+<img width="936" height="450" alt="Screenshot from 2025-09-16 16-10-12" src="https://github.com/user-attachments/assets/11d00ea4-3357-4402-8289-744ef5608b08" />
+<img width="915" height="768" alt="Screenshot from 2025-09-16 16-10-32" src="https://github.com/user-attachments/assets/1ba3f223-cdfe-48f0-bda1-cc9b686b7354" />
+<img width="915" height="768" alt="Screenshot from 2025-09-16 16-10-47" src="https://github.com/user-attachments/assets/64a2a115-db0b-42df-aa28-73b9877b5158" />
+<img width="918" height="787" alt="Screenshot from 2025-09-16 16-12-20" src="https://github.com/user-attachments/assets/dd4d7f68-4595-4d59-ae55-6a8578c4ee93" />
+<img width="918" height="787" alt="Screenshot from 2025-09-16 16-12-33" src="https://github.com/user-attachments/assets/8e9c170f-f3f1-4faa-abbb-ea15980daed4" />
+<img width="920" height="157" alt="Screenshot from 2025-09-16 16-13-20" src="https://github.com/user-attachments/assets/ac53b435-08a8-4283-9264-296b1f5ba73b" />
+
