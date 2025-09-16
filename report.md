@@ -126,3 +126,12 @@ All technical requirements were fulfilled, including:
 - Multiple transactions with varying gas tips
 - Comprehensive transaction analysis including EIP-1559 mechanics
 - Event logging and decimal conversion demonstrations
+
+## Screenshots
+<img width="936" height="450" alt="Screenshot from 2025-09-16 16-10-12" src="https://github.com/user-attachments/assets/ce81d0f9-5245-489b-a2bb-d3d9e0aa936f" />
+<img width="937" height="694" alt="Screenshot from 2025-09-16 16-09-41" src="https<img width="920" height="157" alt="Screenshot from 2025-09-16 16-13-20" src="https://github.com/user-attachments/assets/b868c63e-2e39-48ce-8566-abd3ed0d739b" />
+<img width="918" height="787" alt="Screenshot from 2025-09-16 16-12-33" src="https://github.com/user-attachments/assets/b58c7b8a-ba99-4e14-89da-24516d918e5c" />
+<img width="918" height="787" alt="Screenshot from 2025-09-16 16-12-20" src="https://github.com/user-attachments/assets/fd71b470-ac7b-4b79-acfc-32415d5c708c" />
+<img width="915" height="768" alt="Screenshot from 2025-09-16 16-10-47" src="https://github.com/user-attachments/assets/7ce22d22-7354-49a5-a268-65f0c20ea814" />
+<img width="915" height="768" alt="Screenshot from 2025-09-16 16-10-32" src="https://github.com/user-attachments/assets/bbabc228-10d0-429b-ac5e-3d69b097d791" />
+://github.com/user-attachments/assets/09c3c3ba-b5ce-4c0f-9962-2000070d5115" />
