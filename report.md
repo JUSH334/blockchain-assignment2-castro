@@ -134,4 +134,3 @@ All technical requirements were fulfilled, including:
 <img width="918" height="787" alt="Screenshot from 2025-09-16 16-12-20" src="https://github.com/user-attachments/assets/fd71b470-ac7b-4b79-acfc-32415d5c708c" />
 <img width="915" height="768" alt="Screenshot from 2025-09-16 16-10-47" src="https://github.com/user-attachments/assets/7ce22d22-7354-49a5-a268-65f0c20ea814" />
 <img width="915" height="768" alt="Screenshot from 2025-09-16 16-10-32" src="https://github.com/user-attachments/assets/bbabc228-10d0-429b-ac5e-3d69b097d791" />
-://github.com/user-attachments/assets/09c3c3ba-b5ce-4c0f-9962-2000070d5115" />
